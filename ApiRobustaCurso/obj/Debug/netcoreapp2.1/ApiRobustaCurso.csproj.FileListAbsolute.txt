@@ -1,0 +1,15 @@
+C:\Users\PICHAU\source\repos\ApiRobustaCurso\ApiRobustaCurso\bin\Debug\netcoreapp2.1\ApiRobustaCurso.deps.json
+C:\Users\PICHAU\source\repos\ApiRobustaCurso\ApiRobustaCurso\bin\Debug\netcoreapp2.1\ApiRobustaCurso.dll
+C:\Users\PICHAU\source\repos\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.AssemblyInfo.cs
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\bin\Debug\netcoreapp2.1\ApiRobustaCurso.deps.json
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\bin\Debug\netcoreapp2.1\ApiRobustaCurso.dll
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\bin\Debug\netcoreapp2.1\ApiRobustaCurso.pdb
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.csproj.CoreCompileInputs.cache
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.AssemblyInfoInputs.cache
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.AssemblyInfo.cs
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.dll
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.pdb
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobustaCurso\obj\Debug\netcoreapp2.1\ApiRobustaCurso.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.csprojAssemblyReference.cache
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.csproj.CoreCompileInputs.cache
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.AssemblyInfoInputs.cache
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.AssemblyInfo.cs
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\bin\Debug\netcoreapp2.2\ApiRobusta.Infra.deps.json
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\bin\Debug\netcoreapp2.2\ApiRobusta.Infra.dll
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\bin\Debug\netcoreapp2.2\ApiRobusta.Infra.pdb
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\bin\Debug\netcoreapp2.2\ApiRobustaCurso.dll
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\bin\Debug\netcoreapp2.2\ApiRobustaCurso.pdb
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.csproj.CopyComplete
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.dll
+D:\Estudos\Programacao\C#\ApiRobustaCurso\ApiRobusta.Infra\obj\Debug\netcoreapp2.2\ApiRobusta.Infra.pdb
